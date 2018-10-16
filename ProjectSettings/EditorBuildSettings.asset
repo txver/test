@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: e1de136ea1f42f54fa5702e9f65c2505
+  - enabled: 0
+    path: Assets/Scenes/SelectScreen.unity
+    guid: d9df7e717c46ee34fb4eb52cee55cb0e
+  - enabled: 1
+    path: Assets/Scenes/ARScene.unity
+    guid: 099b7264482d07242ac2ff0f7a90e67c
+  - enabled: 1
+    path: Assets/Scenes/VuforiaScene.unity
+    guid: fd1253f38ee56d0439167b1edb9f6348
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 8c8448787f1c0494fbf991e8d7344ad9
